@@ -87,6 +87,16 @@ Clone the Repository:
 
 git clone [YOUR_REPOSITORY_URL] : cd fluback_task_manager
 
+store the login_screen.dart and task_list_screen.dart files in Screen folder under lib folder of Flutter app core folder
+
+folder heirarchy
+
+..lib/Screens/login_screen.dart
+
+..lib/Screens/task_list_screen.dart
+
+..lib/main.dart
+
 
 Install Dependencies:  flutter pub get
 
